@@ -41,7 +41,6 @@ export class _Blank extends React.Component {
         backgroundColor: "#ffffff",
         fontStyle: "normal",
         fontWeight: "normal",
-        fontFamily: "System",
         flexDirection: "column",
         flexWrap: "wrap",
         justifyContent: "flex-start",
@@ -78,7 +77,6 @@ export class _Blank extends React.Component {
           backgroundColor: "#ffffff",
           fontStyle: "normal",
           fontWeight: "normal",
-          fontFamily: "System",
           flexDirection: "column",
           flexWrap: "wrap",
           justifyContent: "flex-start",
@@ -115,7 +113,6 @@ export class _Blank extends React.Component {
             backgroundColor: "#ffffff",
             fontStyle: "normal",
             fontWeight: "normal",
-            fontFamily: "System",
             flexDirection: "column",
             flexWrap: "wrap",
             justifyContent: "flex-start",
@@ -150,7 +147,6 @@ export class _Blank extends React.Component {
               backgroundColor: "#ffffff",
               fontStyle: "normal",
               fontWeight: "normal",
-              fontFamily: "System",
               borderColor: "#000000",
               borderStyle: "solid",
               borderWidth: 0,
@@ -183,7 +179,6 @@ export class _Blank extends React.Component {
               backgroundColor: "#ffffff",
               fontStyle: "normal",
               fontWeight: "normal",
-              fontFamily: "System",
               flexDirection: "row",
               flexWrap: "wrap",
               justifyContent: "flex-start",
@@ -220,7 +215,6 @@ export class _Blank extends React.Component {
                 backgroundColor: "#ffffff",
                 fontStyle: "normal",
                 fontWeight: "normal",
-                fontFamily: "System",
                 flexDirection: "column",
                 flexWrap: "wrap",
                 justifyContent: "flex-start",
@@ -259,8 +253,7 @@ export class _Blank extends React.Component {
                   borderRightWidth: 0,
                   borderTopWidth: 0,
                   borderBottomWidth: 0,
-                  borderRadius: 0,
-                  fontFamily: "System"
+                  borderRadius: 0
                 }}
                 checked={this.state.CheckBox_21}
                 onChange={nextChecked =>
@@ -288,7 +281,6 @@ export class _Blank extends React.Component {
                 backgroundColor: "#ffffff",
                 fontStyle: "normal",
                 fontWeight: "normal",
-                fontFamily: "System",
                 flexDirection: "column",
                 flexWrap: "wrap",
                 justifyContent: "flex-start",
@@ -327,7 +319,6 @@ export class _Blank extends React.Component {
             backgroundColor: "#ffffff",
             fontStyle: "normal",
             fontWeight: "normal",
-            fontFamily: "System",
             flexDirection: "column",
             flexWrap: "wrap",
             justifyContent: "flex-start",
